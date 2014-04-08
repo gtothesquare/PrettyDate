@@ -1,0 +1,23 @@
+{
+  "name": "PrettyDate",
+  "version": "0.0.1",
+  "description": "Small lib for formatting dates. This is based on the library from John Resig called Javascript Pretty Dates.",
+  "main": "prettydate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gtothesquare/PrettyDate.git"
+  },
+  "author": "Geries Handal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gtothesquare/PrettyDate/issues"
+  },
+  "homepage": "https://github.com/gtothesquare/PrettyDate",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-uglify": "^0.4.0"
+  }
+}
