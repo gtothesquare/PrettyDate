@@ -1,5 +1,3 @@
-
-
 (function(exports) {
 
   exports.prettyDate = function() {
@@ -30,5 +28,5 @@
     };
 
   }();
-
+  
 }(this));
