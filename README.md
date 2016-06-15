@@ -12,9 +12,9 @@ If you need something more advance, consider moments.js https://github.com/momen
 
 ## Usage
 
-prettyDate.prettify('2014-03-20T03:24:00Z');
+`prettyDate.prettify('2014-03-20T03:24:00Z');`
 
-If date provided is more than 31 days long from now, then it will return undefined.
+If date provided is more than 31 days long from now, then it will return `undefined`.
 
 
 ## Original license
